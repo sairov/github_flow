@@ -2,3 +2,5 @@
 ---
 
 ### Integrantes del equipo.
+
+    - Sairov
